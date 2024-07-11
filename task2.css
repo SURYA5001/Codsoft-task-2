@@ -1,0 +1,125 @@
+.container{
+	background-color: white;
+	height: 1800px;
+	width: 1505px;
+}
+.c1{
+	background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+	height: 65px;
+	width: 1505px;
+	
+}
+.button {
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 9px 34px 10px 32px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.c2{
+	background-color: white;
+	height: 60px;
+	width: 1505px;
+}
+.p{
+	 font-family: "Lucida Console", "Courier New", monospace;
+}
+.c3{
+	height: 600px;
+	width: 1505px;
+	background-color: green;
+
+}
+.c4{
+	position: absolute;
+	font-size: 30px;
+	top: 65%;
+	left: 25%;
+	transform: translate(-50%,-50%);
+	color:#008B8B;
+
+}
+.c5{
+	position: absolute;
+	font-size: 30px;
+	top: 75%;
+	left: 40%;
+	transform: translate(-50%,-50%);
+	color:#008B8B;
+
+}
+.c6{
+	position: absolute;
+	font-style: 10px;
+	top: 85%;
+	left: 44%;
+	transform: translate(-50%,-50%);
+	color: #008B8B;
+}
+.c7{
+	background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+	height: 80px;
+	width: 1505px;
+}
+.c8{
+	background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+	height: 120px;
+	width: 1505px;
+	color: white;
+}
+.c9{
+	background-color: orange;
+	height: 500px;
+	width: 1505px;
+}
+.c10{
+	background-color: white;
+	height: 500px;
+	width: 245px;
+	float: left;
+}
+.c11{
+	background-color: white;
+	height: 500px;
+	width: 680px;
+	float: right;
+}
+.c12{
+	background-color: white;
+	height: 500px;
+	width: 580px;
+	float: right;
+
+}
+.button1 {
+  background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 9px 34px 10px 32px;
+  text-decoration: none;
+}
+
+.button1:hover {
+  background: #8FBC8F;
+  text-decoration: none;
+}
+.c13{
+    background-color: #DCDCDC;
+	height: 375x;
+	width: 1506px; 
+}
+.c14{
+	background-color: #DCDCDC;
+	height: 100px;
+	width: 1505px;
+	color: #000000;
+}
